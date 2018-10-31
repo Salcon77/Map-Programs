@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.Map;
-import java.util.zip.Checksum;
 
 public class CheckSum {
     public static  void main(String[] args) {
